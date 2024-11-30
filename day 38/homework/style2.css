@@ -1,0 +1,6 @@
+.wavy-underline {
+    color: black;
+    text-decoration: underline;
+    text-decoration-color: green;
+    text-decoration-style: wavy;
+}

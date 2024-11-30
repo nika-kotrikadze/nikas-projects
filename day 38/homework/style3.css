@@ -1,0 +1,5 @@
+.dashed-border {
+    border-top: 2px dashed red; /* ზემოდან წითელი წყვეტილი ხაზი */
+    border-bottom: 2px dashed red; /* ქვემოდან წითელი წყვეტილი ხაზი */
+    padding: 10px; /* ტექსტისა და ხაზების დაშორება */
+}
