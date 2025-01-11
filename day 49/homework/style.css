@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #141414;
+    height: 100vh;
+}
+section{
+    background-color: #1f1f1f;
+    color: #fff;
+    padding: 30px;
+
+}
+section img{
+    width: 70px;
+    border-radius: 50px;
+}
+.buttons{
+   display: flex; 
+   flex-direction: column;
+}
